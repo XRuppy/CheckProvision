@@ -1,0 +1,33 @@
+name: Check_Provision
+description: Aplicación que listaría lo que viene como suministro.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^4.0.0
+  excel: ^1.1.5
+  path_provider: ^2.0.2
+  flutter_barcode_listener: ^0.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/dbProducts.xlsx
+  uses-material-design: true
+
+  fonts:
+    - family: Product Sans
+      fonts:
+        - asset: assets/fonts/Product_Sans.ttf
+

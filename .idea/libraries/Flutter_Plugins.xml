@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/battery-2.0.1/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/battery-2.0.1/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+17/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+17/android/src/test/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+17/example/android/app/src/androidTestDebug/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+17/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/example/android/app/src/test/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.0/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.0/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/test/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/android/src/test/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/example/android/app/src/androidTestDebug/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.1.1/android/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.1.1/example/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.1.1/example/android/app/src/test/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-6.2.0/java/src" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-6.2.0/java/test" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/benchmarks/macrobenchmarks/android/app/src/androidTest/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/benchmarks/macrobenchmarks/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/android_custom_host_app/SampleApp/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/android_host_app_v2_embedding/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/android_module_host_with_custom_build_v2_embedding/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/channels/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/external_ui/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/flavors/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/flutter_gallery/android/app/src/androidTest/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/flutter_gallery/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/gradle_deprecated_settings/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/module_host_with_custom_build_v2_embedding/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/platform_interaction/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/release_smoke_test/android/app/src/androidTest/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/release_smoke_test/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/dev/integration_tests/ui/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/examples/flutter_view/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/examples/platform_channel/android/app/src/androidTest/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/examples/platform_channel/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/examples/platform_view/android/app/src/main/java" />
+      <root url="file://$USER_HOME$/snap/flutter/common/flutter/packages/integration_test/android/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
